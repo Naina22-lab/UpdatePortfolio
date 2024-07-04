@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Lawverse",
+    "imageSrc": "projects/law.png",
+    "description": "This project provide a lawyer consultant to an individual.",
+    "skills": ["Javascript", "Firebase", "Node"],
+    "demo": "https://lawverse.netlify.app/",
+    "source": "https://github.com/Naina22-lab/Lawverse"
+  },
+  {
+    "title": "Ecomzy",
+    "imageSrc": "projects/ecomzy.png",
+    "description": "This is a online shopping website use for shopping purposes.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://shoping-ecomzy.netlify.app/",
+    "source": "https://github.com/Naina22-lab/Shopping-site-ecomzy"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/password.png",
+    "description": "This project made to generate the password which ir relevant and strong.",
+    "skills": ["Javascript", "Tailwind","CSS"],
+    "demo": "https://naina-passwordgenerator.netlify.app/",
+    "source": "https://github.com/Naina22-lab/Password-generator"
+  }
+]

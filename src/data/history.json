@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Pried.in",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": ["The project includes React Hooks, Navigations, integration of REST APIs and complex State management. ", "Reduced load times by 50%"]
+  },
+  {
+    "role": "Front-end Developer",
+    "organisation": "Bharat Intern",
+    "startDate": "Nov, 2022",
+    "endDate": "Dec, 2022",
+    "experiences": ["Worked on various frontend designs", "Implemented Real-Time Data Integration and Robust Error Handling."]
+  }
+]
